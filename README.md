@@ -1,1 +1,1 @@
-# maze-solver
+flutter doctor -v
